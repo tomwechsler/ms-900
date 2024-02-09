@@ -1,2 +1,1 @@
-# ms-900
-Microsoft 365 Grundlagen
+# Microsoft 365 Certified: Fundamentals!
