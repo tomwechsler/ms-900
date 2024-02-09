@@ -1,0 +1,32 @@
+Join the Microsoft 365 Developer Program today!
+https://developer.microsoft.com/en-us/microsoft-365/dev-program
+
+Microsoft 365 Enterprise-Plan
+https://www.microsoft.com/de-de/microsoft-365/enterprise/microsoft365-plans-and-pricing-eea
+
+Microsoft 365-Plan für Ihr Unternehmen
+https://www.microsoft.com/de-ch/microsoft-365/business/compare-all-microsoft-365-business-products
+
+Shared responsibility in the cloud
+https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+
+Was ist IaaS?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-iaas
+
+Was ist PaaS?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-paas
+
+Was ist SaaS?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-saas/
+
+Was ist eine Public Cloud?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-a-public-cloud
+
+Was ist eine Private Cloud?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-a-private-cloud
+
+Was ist eine Hybrid Cloud?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing/
+
+Was sind Public Clouds, Private Clouds und Hybrid Clouds?
+https://azure.microsoft.com/de-de/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds
