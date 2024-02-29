@@ -1,0 +1,35 @@
+Kursleitfaden für die Prüfung MS-900: Microsoft 365-Grundlagen
+https://learn.microsoft.com/de-de/credentials/certifications/resources/study-guides/ms-900
+
+What is Project for the web?
+https://support.microsoft.com/en-us/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5
+
+Was ist Microsoft Forms?
+https://support.microsoft.com/de-de/topic/was-ist-microsoft-forms-6b391205-523c-45d2-b53a-fc10b22017c8
+
+Microsoft Lists-Ressourcen
+https://adoption.microsoft.com/de-de/microsoft-lists/resources/
+
+Stream (auf SharePoint), die neue Version von Microsoft Stream
+https://learn.microsoft.com/de-de/stream/streamnew/new-stream
+
+Microsoft-Anrufpläne für Teams
+https://learn.microsoft.com/de-de/microsoftteams/calling-plans-for-office-365
+
+Microsoft Viva overview
+https://learn.microsoft.com/en-us/viva/microsoft-viva-overview
+
+Endpunktverwaltung bei Microsoft
+https://learn.microsoft.com/de-de/mem/endpoint-manager-overview
+
+Windows client updates, channels, and tools
+https://learn.microsoft.com/en-us/windows/deployment/update/get-started-updates-channels-tools
+
+Windows 365 Business und Enterprise vergleichen
+https://learn.microsoft.com/de-de/windows-365/business-enterprise-comparison
+
+Connect to Azure Virtual Desktop with the Remote Desktop Web client
+https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-web
+
+Übersicht über die Updatekanäle für Microsoft 365 Apps
+https://learn.microsoft.com/de-de/deployoffice/updates/overview-update-channels
