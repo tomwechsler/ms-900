@@ -1,0 +1,56 @@
+Was ist Microsoft Entra ID?
+https://learn.microsoft.com/de-de/entra/fundamentals/whatis
+
+Migrieren von MFA- und SSPR-Richtlinieneinstellungen in die Richtlinie für Authentifizierungsmethoden für Microsoft Entra ID
+https://learn.microsoft.com/de-de/entra/identity/authentication/how-to-authentication-methods-manage
+
+Verwalten von Konten für den Notfallzugriff in Microsoft Entra ID
+https://learn.microsoft.com/de-de/entra/identity/role-based-access-control/security-emergency-access
+
+Was ist bedingter Zugriff?
+https://learn.microsoft.com/de-de/entra/identity/conditional-access/overview
+
+Was ist Microsoft Defender XDR?
+https://learn.microsoft.com/de-de/defender-xdr/microsoft-365-defender
+
+Microsoft 365 Licensing
+https://m365maps.com/
+
+Überprüfen der Architekturanforderungen und der wichtigsten Konzepte für Microsoft Defender for Identity
+https://learn.microsoft.com/de-de/defender-xdr/eval-defender-identity-architecture
+
+Was ist Microsoft Defender Sicherheitsrisikomanagement
+https://learn.microsoft.com/de-de/defender-vulnerability-management/defender-vulnerability-management
+
+Was ist Erkennung von Bedrohungen und die Reaktion darauf (Threat Detection and Response, TDR)?
+https://www.microsoft.com/de-de/security/business/security-101/what-is-threat-detection-response-tdr
+
+Was ist Zero Trust?
+https://learn.microsoft.com/de-de/security/zero-trust/zero-trust-overview
+
+Sicherheit mit Zero Trust proaktiv umsetzen
+https://www.microsoft.com/de-de/security/business/zero-trust
+
+Informationen zum Insider-Risikomanagement
+https://learn.microsoft.com/de-de/purview/insider-risk-management
+
+Erste Schritte mit eDiscovery (Standard)
+https://learn.microsoft.com/de-de/purview/ediscovery-standard-get-started
+
+Einen eDiscovery-Fall (Premium) erstellen und verwalten
+https://learn.microsoft.com/de-de/purview/ediscovery-create-and-manage-cases
+
+Microsoft Purview-Risiko- und Compliancelösungen
+https://learn.microsoft.com/de-de/purview/purview-compliance#identify-and-manage-data-for-legal-cases-with-ediscovery-premium-or-ediscovery-standard
+
+Datenschutz und Privatsphäre
+https://www.microsoft.com/de-ch/trust-center/privacy
+
+Wo wir Ihre Daten speichern
+https://www.microsoft.com/de-ch/trust-center/privacy/data-location
+
+Suchen und Visualisieren personenbezogener Daten im Datenschutz-Risikomanagement
+https://learn.microsoft.com/de-de/privacy/priva/priva-data-profile
+
+Weitere Informationen zu Microsoft Priva
+https://learn.microsoft.com/de-de/privacy/priva/priva-overview
